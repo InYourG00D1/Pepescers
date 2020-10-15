@@ -240,7 +240,6 @@ if [ $gmt = 00 ]
 then 
 clear
 echo "ThanksTo : Look-T - Wannabe - extazy - Vijune15 - TuanSwam"|lolcat
-echo "Kalo Ingin Direcode silahkan"|lolcat
-echo "Hak cipta Jangan Dirubah Hargai mereka coding gan"|lolcat
-echo "Ngecoding Gk Segampang Dapettin Cinta Kamu"|lolcat
 fi
+
+
