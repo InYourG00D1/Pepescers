@@ -103,7 +103,7 @@ cd menu
 mv -f kojek.php /sdcard
 echo $red "DoneBosQ"
 echo $green "Silahkan Cek Di Folder/file"
-echo $blue "Pass nya : kenatipucok"
+echo $blue "Password : kenatipucok"
 fi
 
 if [ $gmt = 5 ]
@@ -124,7 +124,7 @@ cd menu
 mv -f Tatsumicrew.php /sdcard
 echo $red "DoneBosQ"
 echo $green "Silahkan Cek Di Folder/file"
-echo $blue "Pass nya : tatsumi2k18"|lolcat
+echo $blue "Password : tatsumi2k18"|lolcat
 fi
 
 if [ $gmt = 7 ]
