@@ -11,34 +11,6 @@ red='\033[31;1m'
 white='\033[37;1m'                                           
 yellow='\033[33;1m'
 
-echo $red "🐇Terkadang kita Hidup lupa akan Tanah"
-sleep 1
-clear
-echo $blue "🐆Terkadang kita Hidup lupa akan Tanah"
-sleep 1
-clear
-echo $green "🐺Terkadang kita Hidup lupa akan Tanah"
-sleep 1
-clear
-echo $red "🐇Terkadang kita Hidup lupa akan Tanah"
-sleep 
-clear
-echo $blue "🐆Terkadang kita Hidup lupa akan Tanah"
-sleep 1
-clear
-echo $green "🐺Terkadang kita Hidup lupa akan Tanah"
-sleep 1
-clear
-echo $red "🐇Terkadang kita Hidup lupa akan Tanah"
-sleep 1
-clear
-echo $blue "🐆Terkadang kita Hidup lupa akan Tanah"
-sleep 1
-clear
-echo $green "🐺Terkadang kita Hidup lupa akan Tanah"
-sleep 1
-clear
-echo ""
 
 echo "\033[0;32m]
       .---.        .-----------
@@ -52,8 +24,7 @@ echo "\033[0;32m]
 +          *//||\\*            +
 +           ****               +
 + coded by : InYourG00D        +
-+ Team : LNX#CREW S.T.C BUFT   +
-+ kontak me : 6281382406878    +
++ Team : LNX#.CREW|S.T.C|BUFT  +
 +==============================+
   ^...^                   ^...^
  <_* *_>Shell&ScriptPepes<_* *_> 
@@ -239,7 +210,7 @@ fi
 if [ $gmt = 00 ]
 then 
 clear
-echo "ThanksTo : Look-T - Wannabe - extazy - Vijune15 - TuanSwam"|lolcat
+echo "Thanks : Look-T - Wannabe - extazy - Vijune15 - Ragil"
 fi
 
 
